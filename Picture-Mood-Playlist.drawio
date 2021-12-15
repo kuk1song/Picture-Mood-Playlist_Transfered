@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T21:32:49.531Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="r_Z_5Tz_mE1gRRC-7oZW" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-15T21:34:00.726Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="kt-LiXz_L8fQHrCEpAeD" version="13.10.9" type="github">
   <diagram id="uMmYlRdymziWBklONeEX" name="Page-1">
     <mxGraphModel dx="765" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,6 +25,11 @@
         </mxCell>
         <mxCell id="1D9TrF4b-mN48vliY74l-1" value="&lt;b&gt;IMAGE&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6HTU2ilgzphinobMCIUa-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6HTU2ilgzphinobMCIUa-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6HTU2ilgzphinobMCIUa-9" value="&lt;span&gt;Image Object&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span&gt;Recognition&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
@@ -64,6 +69,9 @@
         </mxCell>
         <mxCell id="6HTU2ilgzphinobMCIUa-50" value="&lt;b&gt;.......&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="450" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6HTU2ilgzphinobMCIUa-51" value="Words" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="340" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
